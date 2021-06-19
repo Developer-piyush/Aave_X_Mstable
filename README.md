@@ -30,4 +30,4 @@ Running Project Locally
 4. npm install web3
 5. Run the local development server: `yarn start` 
 
-starts at ![http://localhost:3000](http://localhost:3000)
+starts at (http://localhost:3000)
