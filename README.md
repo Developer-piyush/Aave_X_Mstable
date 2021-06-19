@@ -1,6 +1,6 @@
-# (Aave x Mstable) Pooled Loan
+# (Aave x Mstable) Loan Pool
 ===========================
- <img src="https://github.com/developer-piyush/aave_x_mstable/blob/master/src/assets/logo.png" height="150" width="300">
+ <img src="https://github.com/Developer-piyush/Aave_X_Mstable/blob/main/src/assets/logo.png" height="150" width="300">
  
 => A project that uses a factory contract to spawn new loan pools. 
 => It combines a browser-based frontend with the ethereum smart contract using web3.js. 
