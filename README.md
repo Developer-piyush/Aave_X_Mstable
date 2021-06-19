@@ -24,7 +24,10 @@
 Running Project Locally
 =======================
 
-1. git clone 
-2. Install dependencies: `yarn install`
-3. npm install web3
-4. Run the local development server: `yarn start` (see `package.json` for a full list of `scripts` you can run with `yarn`)
+1. git clone https://github.com/Developer-piyush/Aave_X_Mstable
+2. cd Aave_X_Mstable
+3. Install dependencies: `yarn install`
+4. npm install web3
+5. Run the local development server: `yarn start` 
+
+starts at ![http://localhost:3000](http://localhost:3000)
