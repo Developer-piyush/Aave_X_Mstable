@@ -1,7 +1,7 @@
 {
   "name": "AaveMstable",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://aave-x-mstable.vercel.app/",
   "dependencies": {
     "@0x/contract-wrappers": "^13.8.0",
     "@0x/utils": "^5.5.1",
