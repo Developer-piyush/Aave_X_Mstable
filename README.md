@@ -1,7 +1,6 @@
 # (Aave x Mstable) Loan Pool
 ===========================
  <img src="https://github.com/Developer-piyush/Aave_X_Mstable/blob/main/src/assets/logo.png" height="150" width="300">
- <img src="https://github.com/Developer-piyush/Aave_X_Mstable/blob/main/src/assets/10.png" height="" width="">
  ![pic](https://github.com/Developer-piyush/Aave_X_Mstable/blob/main/src/assets/10.png)
  
 => A project that uses a factory contract to spawn new loan pools. 
